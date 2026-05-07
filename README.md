@@ -1,4 +1,4 @@
-# Uber Ride Analytics (Databricks + dbt)
+# Ride Analytics (Databricks + dbt)
 
 ## Overview
 <img width="4194" height="2219" alt="image" src="https://github.com/user-attachments/assets/afe5192c-840d-4276-86a4-cb564b152c2e" />
